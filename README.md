@@ -1,4 +1,4 @@
-# smart0
+# test
 // Print text
 console.log("Hello World!"); // 👉 Hello World!
 
